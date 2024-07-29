@@ -27,7 +27,7 @@ This repository is organized into several projects, each addressing different as
 ## Documentation
 
 For detailed documentation on each project, refer to the following links:
-- [Project 1 Documentation](#)
+-[Lean Technical Documentation TT Mavundza.docx](https://github.com/user-attachments/files/16414012/Lean.Technical.Documentation.TT.Mavundza.docx)
 
 
 ## Branching Strategy
