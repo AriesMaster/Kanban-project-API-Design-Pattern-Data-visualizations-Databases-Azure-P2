@@ -53,6 +53,8 @@ To ensure security, credentials and sensitive information will not be stored dir
 - Use environment variables to store sensitive information.
 - Include sample configuration files (e.g., `appsettings.example.json`) with placeholders for sensitive data.
 - Ensure that the `.gitignore` file excludes actual configuration files with sensitive information.
+![burn down chart](https://github.com/user-attachments/assets/9cb3f249-67f9-403f-8bfe-eff90ee20bc4)
 
 ---
+
 
